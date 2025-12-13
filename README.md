@@ -1,5 +1,3 @@
-<img width="1290" height="737" alt="image" src="https://github.com/user-attachments/assets/5bf7a692-935a-4fd2-acd9-9ce33a8caada" />.
-
 🏠 Airbnb Data Analysis Dashboard | Power BI
 📌 Project Overview
 
